@@ -2,7 +2,6 @@
 --@author Claydo
 --@shared
 
---################--
 
 vdebug = {}
 vdebug.__renderStack = {}
